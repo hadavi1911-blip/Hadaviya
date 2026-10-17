@@ -49,8 +49,9 @@ LBS College of Engineering, Kasaragod
 ## 📫 Connect With Me
 
 - 📱 Phone: 7593001522
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [your-linkedin-link](https://linkedin.com/in/your-id)
+- 📧 Email: hadavi1911@gmail.com
+- 💼 LinkedIn:https://www.linkedin.com/in/rabiyathul-hadaviyya-c-m-7185793a5
+
 
 ---
 
