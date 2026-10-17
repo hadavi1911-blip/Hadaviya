@@ -33,13 +33,7 @@ Mathematics Assistant Professor at LBS College of Engineering, Kasaragod, buildi
 | **Deep Learning & AI** | TensorFlow, Deep Learning, LLMs |
 | **Visualisation & Reporting** | Power BI, Excel, Advanced Excel |
 
-## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Project Name](link) | One line on what it does and the result | Python, Scikit-learn |
-| [Project Name](link) | One line on what it does and the result | Python, TensorFlow |
-| [Project Name](link) | One line on what it does and the result | SQL, Power BI |
 
 ## 🎓 Experience
 
